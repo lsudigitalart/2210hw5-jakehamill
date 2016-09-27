@@ -6,7 +6,7 @@ var rr = 0;
 
 function setup() {
   createCanvas(1200,400);
-  background(200);
+  background(40);
   ellipseMode(CENTER);
 }
 
@@ -23,8 +23,6 @@ rotate(r);
  r = r + 2;
 fill(e , g, b);
 ellipse(100, 100, 100, 30);
-for (var t = 0; t < 1000; t++) {
-}
 pop();
 
 push();
@@ -35,8 +33,6 @@ rotate(r);
  r = r + 2;
 fill(e , g, b);
 ellipse(100, 100, 100, 30);
-for (var t = 0; t < 1000; t++) {
-}
 pop();
 
 push();
@@ -47,8 +43,6 @@ rotate(r);
  r = r + 2;
 fill(e , g, b);
 ellipse(100, 100, 100, 30);
-for (var t = 0; t < 1000; t++) {
-}
 pop();
 
 push();
@@ -59,8 +53,6 @@ rotate(r);
  r = r + 2;
 fill(e , g, b);
 ellipse(100, 100, 100, 30);
-for (var t = 0; t < 1000; t++) {
-}
 pop();
 
 push();
@@ -71,8 +63,6 @@ rotate(r);
  r = r + 2;
 fill(e , g, b);
 ellipse(100, 100, 100, 30);
-for (var t = 0; t < 1000; t++) {
-}
 pop();
 
 push();
@@ -83,8 +73,6 @@ rotate(r);
  r = r + 2;
 fill(e , g, b);
 ellipse(100, 100, 100, 30);
-for (var t = 0; t < 1000; t++) {
-}
 pop();
 
 push();
@@ -95,8 +83,6 @@ rotate(r);
  r = r + 2;
 fill(e , g, b);
 ellipse(100, 100, 100, 30);
-for (var t = 0; t < 1000; t++) {
-}
 pop();
 
 
